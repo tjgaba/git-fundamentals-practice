@@ -1,0 +1,141 @@
+# ================================================
+# Git Ignore File   
+# ================================================
+
+# Ignore Operating System Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.log
+*.tmp
+*.swp
+
+# Ignore Windows Specific Files
+$RECYCLE.BIN/
+System Volume Information/
+*.lnk
+
+# Ignore Linux Specific Files
+*~~
+.nfs*
+
+# Ignore MacOS Specific Files
+.Spotlight-V100/
+.Trashes
+.DS_Store
+.AppleDouble
+.LSOverride
+.DocumentRevisions-V100/
+.VolumeIcon.icns
+.fseventsd/
+.hotfiles.btree
+
+# Ignore Compiled Source Files
+*.class
+*.o
+*.so
+*.exe
+*.dll
+*.pyc
+*.pyo
+
+# Ignore Dependency Directories
+bower_components/
+jspm_packages/
+
+# Ignore Build Directories
+dist/
+build/
+out/
+
+# Ignore Temporary Files
+tmp/
+temp/
+*.temp
+*.part
+*.crdownload
+*.partial
+
+# Ignore Package Files
+node_modules/
+vendor/
+
+# Ignore Environment Files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Ignore IDE and Editor Specific Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# Ignore Log Files
+*.log
+
+# Ignore Python Specific Files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Ignore Backup Files
+*~
+
+# Ignore Node.js Dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore Backup Files
+*~
+*.bak
+*.old
+
+# Ignore Coverage Reports
+coverage/
+.nyc_output/
+
+# Ignore Miscellaneous Files
+*.aux
+*.log
+*.out
+*.toc
+*.gz
+*.zip
+*.tar
+*.rar
+*.7z
+*.iso
+*.jar
+*.war
+*.ear
+*.dll
+*.lib
+*.msi
+*.dmg
+*.pkg
+*.log
+*.csv
+*.dat
+*.db
+*.sqlite
+*.sqlite3
+*.pid
+*.seed
+*.pid.lock
+*.log
+
+# Ignore Thumbnails
+._*
+
+# ================================================
+# End of .gitignore file
+# ================================================
+
