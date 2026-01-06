@@ -15,8 +15,6 @@
 - [Contact](#contact)  
 - [License](#license)  
 
----
-
 ### 📌 Project Overview
 
 The **IT Consultant Appointment Booking System** is a full-stack platform designed for clients who want custom software solutions. Clients can **view available time slots, book appointments, and receive SMS/email notifications**.  
@@ -40,6 +38,7 @@ Admins can **manage slots, view bookings, and send updates**, ensuring consultan
 2. Client reschedules to 11:30 AM; admin is notified, and the client receives an update.  
 3. Client cancels an appointment; slot opens for others, with automatic notifications sent.
 
+
 ---
 
 ### 🛠 Installation
@@ -59,7 +58,6 @@ bash
 # 4. Navigate to frontend folder (if separate)
 - cd frontend
 - npm install
-
 
 ### Usage
 
@@ -127,7 +125,7 @@ bash
 # Code of Conduct:
 - All contributors are expected to maintain a respectful and collaborative environment. Clear communication and constructive feedback are encouraged.
 
-## Credits
+### Credits
 
 # -Project Guidance and Documentation:
 - This README and overall project structure were crafted with the guidance of ChatGPT, an AI assistant by OpenAI. ChatGPT helped design the professional layout, section explanations, usage scenarios, features descriptions, and contributing workflow, ensuring the project is clear, organized, and ready for GitHub showcase.
@@ -141,7 +139,8 @@ bash
 # Inspiration:
 - This project is inspired by modern appointment booking systems, SaaS tools, and best practices in full-stack web development, ensuring a professional, user-friendly experience.
 
-# Contact
+### Contact
 - Name: TJ Gaba
 - Phone number: 069 903 8822
 - Email: tjgaba@outlook.com
+
