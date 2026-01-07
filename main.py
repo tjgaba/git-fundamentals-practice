@@ -1,7 +1,6 @@
 # Team Project: Calculator Application
 
 # Version: 1.2.0
-=======
 def add(a, b):
     """Add two numbers"""
     return a + b
@@ -21,6 +20,5 @@ def divide(a, b):
 if __name__ == "__main__":
 
     print("Calculator v1.2.0")
-=======
     print(f"10 + 5 = {add(10, 5)}")
     print(f"10 - 5 = {subtract(10, 5)}")
