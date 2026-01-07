@@ -44,7 +44,7 @@ Press F5
 
 ## Usage
 
-R### Run the calculator:
+#### Run the calculator:
 
 -  main.py
 
