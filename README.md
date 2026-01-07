@@ -21,7 +21,7 @@ The **IT Consultant Appointment Booking System** is a full-stack platform design
 
 Admins can **manage slots, view bookings, and send updates**, ensuring consultants’ time is used efficiently while clients have a seamless booking experience.  
 
-**Key Goals:**  
+**Key Goals:** 
 - Streamline appointment scheduling for IT consultations  
 - Provide a clear, user-friendly interface for clients and admins  
 - Send real-time notifications for appointments  
@@ -142,5 +142,6 @@ bash
 ### Contact
 - Name: TJ Gaba
 - Phone number: 069 903 8822
-- Email: tjgaba@outlook.com
+- Email: tjgaba@outlook.comls
+
 
