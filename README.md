@@ -17,26 +17,26 @@
 - [Contact](#contact)  
 - [License](#license)  
 
-### 📌 Project Overview
+## 📌 Project Overview
 
 This is a **Team Project: Calculator Application** built in Python. It allows users to perform basic arithmetic operations such as 
 addition, subtraction, multiplication, and division through a command-line interface (CLI).
 
 
-## Installation
+### Installation
 
 Make sure Python 3.x is installed on your system or install necessary extentions do debg the application on VS Code.
 
-### Clone the repository:
+#### Clone the repository:
 
 git clone https://github.com/tjgaba/git-fundamentals-practice.git
 
 
-### Navigate into the project folder:
+#### Navigate into the project folder:
 
 cd git-fundamentals-practice
 
-### Run the applicaton by pressing F5 after
+#### Run the applicaton by pressing F5 after
 
 Press F5
 
@@ -44,43 +44,48 @@ Press F5
 
 ## Usage
 
-- Run the calculator:
+R### Run the calculator:
 
 -  main.py
 
-### Follow the on-screen prompts to enter the first and second number.
+#### Follow the on-screen prompts to enter the first and second number.
 
 Example:
 
 Enter first number: 10
+
 Enter second number: 5
+
 Result for Addition: 15
+
 Result for Subtracton: 5
+
 Result for Multiplication: 50
+
 Result division: 2
 
 ## Features
 
-### - Add, subtract, multiply, and divide numbers
+#### - Add, subtract, multiply, and divide numbers
 
-### - Handles division by zero gracefully
+#### - Handles division by zero gracefully
 
-### - User-friendly command-line interface
+#### - User-friendly command-line interface
 
 
 ## Contributing
 
-### Contributions are welcome!
+#### Contributions are welcome!
 
 - Fork the repository
 
-### Create a new branch:
+#### Create a new branch:
 
 - git checkout -b feature-name
 
-### Make your changes
+#### Make your changes
 
-### - Commit your changes:
+#### - Commit your changes:
 
 - git commit -m "Add some feature"
 
