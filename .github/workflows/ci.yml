@@ -3,7 +3,9 @@ on:
   push: 
     branches: 
       - main 
-  pull_request: 
+  pull_request:
+    branches: 
+      - main 
 
 jobs: 
      demo-job:
@@ -13,5 +15,5 @@ jobs:
           - name: Checkout repository 
             uses: actions/checkout@v3 
 
-          - name: Run demo command |
+          - name: Run demo command
             run: echo "CI is running"
