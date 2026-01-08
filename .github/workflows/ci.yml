@@ -1,11 +1,12 @@
 name: CI Demo 
 on: 
-  push: 
+    pull_request: 
     branches: 
       - main 
-  pull_request:
+    push:
     branches: 
       - main 
+  
 
 jobs: 
      demo-job:
